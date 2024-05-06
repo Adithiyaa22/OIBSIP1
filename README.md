@@ -6,7 +6,7 @@ Create portfolio website showcasing skills, projects, and achievements.
 ## Features
 - Professional design for visual appeal and readability.
 - About Me section with background, skills, and expertise.
-- Contact form for easy communication with potential clients or employers.
+- Contact form for easy communication
 - Responsive design for optimal viewing across devices and screen sizes.
 
 ## Technologies Used
